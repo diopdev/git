@@ -1,3 +1,3 @@
 # Documentation GitHub
 
-## Initiatliser un dépot
+## Initialiser un dépot
